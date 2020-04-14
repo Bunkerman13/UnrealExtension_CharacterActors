@@ -18,7 +18,7 @@
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.16299.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.16299.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -33,7 +33,6 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Test2.cpp.obj"
 "D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Module.Test2.cpp.obj"
 "D:\RepoUnreal\UnrealProjEngines\UnrealExtension_CharacterActors\MyProject2\Plugins\Test2\Intermediate\Build\Win64\UE4Editor\Development\Test2\Default.rc2.res"
 "delayimp.lib"
