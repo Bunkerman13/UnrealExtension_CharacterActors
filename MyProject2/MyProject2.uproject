@@ -17,6 +17,10 @@
 		{
 			"Name": "UIContentTest",
 			"Enabled": true
+		},
+		{
+			"Name": "CustomPlugin",
+			"Enabled": false
 		}
 	]
 }
